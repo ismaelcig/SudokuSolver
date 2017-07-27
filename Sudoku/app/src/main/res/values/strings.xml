@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="menu_b1">New Sudoku</string>
+    <string name="menu_b2">Load Sudoku</string>
+    <string name="menu_b3">Solve Sudoku</string>
+    <string name="app_exit">Exit</string>
+</resources>
